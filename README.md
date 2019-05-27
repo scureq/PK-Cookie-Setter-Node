@@ -16,7 +16,7 @@
 # CoookieSetterNode
 
 A simple authentication node for ForgeRock's [Identity Platform][forgerock_platform] 6.5.0 and above. 
-This node is based upon Persistent Cookie Node. It allows setting a cookie as part of the authentication journey.
+This node is based upon Persistent Cookie Node. It allows setting a cookie (with arbitrary name and contents) as part of the authentication journey.
 
 ## Installation
 
